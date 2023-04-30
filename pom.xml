@@ -6,7 +6,7 @@
 
     <groupId>me.dlwinner1468</groupId>
     <artifactId>CreeperAntiExplodePlugin</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <packaging>jar</packaging>
 
     <name>CreeperAntiExplodePlugin</name>
