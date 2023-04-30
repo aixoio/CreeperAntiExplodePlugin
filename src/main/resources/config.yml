@@ -1,0 +1,23 @@
+# Default: true
+# This will enable and/or disable the plugin
+Active: true
+
+# Default: true
+# If this is set to true, when a creeper explodes it will not remove the entity
+RemoveCreeperEntityOnExplode: true
+
+# Default: false
+# To show smoke particles when a creeper explodes
+ShowParticles: false
+
+# Default: 25
+# The number of smoke particles to show
+ParticleCount: 25
+
+# Default: true
+# Disables the damage when a creeper explodes
+DisableDamage: true
+
+# Default: true
+# When enabled it will play a sound when a creeper explodes
+PlaySound: true

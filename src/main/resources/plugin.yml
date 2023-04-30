@@ -1,0 +1,5 @@
+name: CreeperAntiExplodePlugin
+version: '${project.version}'
+main: me.dlwinner1468.creeperantiexplodeplugin.CreeperAntiExplodePlugin
+api-version: 1.19
+authors: [DLWinner1468]
