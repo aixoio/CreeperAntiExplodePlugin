@@ -19,5 +19,5 @@ ParticleCount: 25
 DisableDamage: true
 
 # Default: true
-# When enabled it will play a sound when a creeper explodes
+# When enabled it will play a pop sound when a creeper explodes
 PlaySound: true
