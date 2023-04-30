@@ -22,7 +22,7 @@ public class EntityExplodeEventListener implements Listener {
 
         if (!active) return;
         if (e.getEntityType() == null) return;
-        if (e.getEntityType() == EntityType.CREEPER);
+        if (e.getEntityType() != EntityType.CREEPER) return;
 
         e.setCancelled(true);
 
