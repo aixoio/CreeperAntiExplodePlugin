@@ -16,8 +16,8 @@ public class CreeperDamageEventListener implements Listener {
 
         if (!active) return;
         if (!disableDamage) return;
-        if (e.getEntityType() == null) return;
-        if (e.getEntityType() != EntityType.CREEPER) return;
+        if (e.getDamager() == null) return;
+        if (e.getDamager().getType() != EntityType.CREEPER) return;
 
         e.setCancelled(true);
 
